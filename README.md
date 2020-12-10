@@ -1,5 +1,4 @@
 # portfolio
 Personal Portfolio website
-python
-django
-html
+Prerequisite:
+python,django,html
